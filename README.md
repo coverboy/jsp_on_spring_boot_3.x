@@ -14,7 +14,7 @@ A simple demo of JSP running with Spring Boot 3.x.
 
 ### 확인
 ```bash
-curl http://localhost:8080/testJSP
+curl http://localhost:8085/testJSP
 ```
 
 
